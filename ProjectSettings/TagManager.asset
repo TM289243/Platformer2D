@@ -9,6 +9,7 @@ TagManager:
   - Projectile
   - Zombie
   - EnemyProjectile
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - PlayerProjectile
   - Enemy
   - EnemyProjectile
-  - 
+  - Checkpoint
   - 
   - 
   - 

@@ -49,5 +49,6 @@ public class GameManager : MonoBehaviour
                 images[2].enabled = true;
                 break;
         }
+
     }
 }
